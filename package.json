@@ -1,0 +1,14 @@
+{
+  "name": "book_museum",
+  "version": "1.0.0",
+  "description": "Book museum function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Golding",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
